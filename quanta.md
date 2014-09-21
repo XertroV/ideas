@@ -7,6 +7,10 @@ Quanta is meant to be an alternative to a satoshi blockchain that enables:
 * No wasted work
 
 
+## Some Code
+
+https://github.com/XertroV/quanta-test/blob/master/quanta.py
+
 
 ## Deregulating the target
 
